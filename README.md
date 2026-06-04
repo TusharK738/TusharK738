@@ -1,72 +1,98 @@
-# <div align="center">Hi 👋, I'm Tushar Kaushik</div>
-
 <div align="center">
 
-### Backend Developer | .NET Developer | AI Automation Enthusiast
+# Tushar Kaushik
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Backend+Developer;Building+Scalable+REST+APIs;AI+Automation+with+Python+%26+LangChain;Clean+Architecture+%7C+Docker+%7C+SQL+Server" />
+### Backend Engineer • .NET Developer • AI Automation Engineer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=900&lines=Backend+Engineer;.NET+Developer;Building+Scalable+REST+APIs;Database+Design+and+Optimization;AI+Automation+with+Python+and+LangChain;Clean+Architecture+and+Production+Ready+Solutions" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+## Professional Summary
 
-* 💼 Backend Developer with experience in **.NET, SQL Server, MySQL, Python, Docker, Git, and GitHub**
-* 🔭 Currently building scalable backend systems and AI-powered automation solutions
-* 🤖 Experienced with **LangChain, Gemini API, and intelligent workflow automation**
-* 🏗️ Passionate about **Clean Architecture, API Design, and Database Optimization**
-* 🌱 Continuously learning modern backend and cloud technologies
-* 🎯 Focused on writing maintainable, scalable, and production-ready code
+Backend Developer with hands-on experience in .NET, SQL Server, MySQL, Python, Docker, Git, and GitHub. Experienced in building scalable backend systems, designing robust APIs, optimizing database performance, and developing AI-powered automation solutions.
+
+Strong interest in Clean Architecture, software design principles, system reliability, and intelligent workflow automation.
 
 ---
 
-## 💼 Professional Experience
+## Areas of Expertise
 
-### Backend Developer | VVnT Sequor
+<table>
+<tr>
+<td width="50%">
 
-* Developed and maintained scalable REST APIs using .NET
-* Designed and optimized MS SQL Server databases
-* Implemented authentication, validation, and business workflows
-* Worked with Docker-based deployment environments
-* Collaborated with QA and frontend teams for production releases
-* Followed Clean Architecture and Git-based development workflows
+* Backend Development
+* REST API Design
+* Clean Architecture
+* Database Design
+* Query Optimization
+* System Integration
 
----
+</td>
 
-## 🏆 Featured Projects
+<td width="50%">
 
-### 📌 Grant / Know Your Leader / Quiz & Survey / Classified
+* AI Automation
+* LangChain
+* Gemini API
+* Docker
+* Git & GitHub
+* Production Deployment
 
-* Developed backend services for multiple client-facing applications
-* Designed scalable APIs and database structures
-* Implemented secure authentication and data validation
-* Supported deployment and production release activities
-
-### 📧 AI Email Agent
-
-* Built an AI-powered email automation platform
-* Integrated Gemini API for intelligent email responses
-* Utilized LangChain for contextual understanding
-* Implemented email analytics and reporting
-* Deployed using Docker with MySQL storage
-
-### 🤖 AI WhatsApp Agent
-
-* Integrated Meta WhatsApp Business API
-* Built intelligent order tracking workflows
-* Implemented AI-based intent detection using Gemini API
-* Developed scalable backend services using Python and Flask
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+## Professional Experience
 
-### Backend Development
+### Backend Developer — VVnT Sequor
+
+Responsible for designing and maintaining backend services, database architecture, API integrations, deployment workflows, and production-ready software solutions.
+
+Key Contributions:
+
+* Developed scalable REST APIs using .NET
+* Optimized SQL Server database structures
+* Implemented authentication and business workflows
+* Worked with Docker-based environments
+* Collaborated closely with QA and frontend teams
+* Followed Clean Architecture practices
+
+---
+
+## Selected Projects
+
+### Grant • Know Your Leader • Quiz & Survey • Classified
+
+Enterprise applications developed with a focus on backend architecture, API development, authentication, validation, and database optimization.
+
+### AI Email Agent
+
+AI-powered email automation platform utilizing Gemini API and LangChain for contextual email responses, analytics, and workflow automation.
+
+### AI WhatsApp Agent
+
+Intelligent WhatsApp-based order management system integrating Meta WhatsApp Business API, Gemini AI, and Python backend services.
+
+---
+
+## Technology Stack
+
+### Languages
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
+### Frameworks & Tools
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 
 ### Databases
 
@@ -78,26 +104,22 @@
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge)
 
-### Tools & DevOps
+---
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+## GitHub Analytics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TusharK738&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharK738&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TusharK738&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=TusharK738\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=TusharK738\&theme=tokyonight\&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TusharK738\&theme=tokyonight\&hide_border=true\&layout=compact)
-
----
-
-## 🌐 Connect With Me
+## Professional Network
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/tushar-kaushik-b369182b8)
 
@@ -109,6 +131,6 @@
 
 <div align="center">
 
-### 💡 "Building reliable backend systems and intelligent automation solutions."
+Building scalable backend systems and intelligent automation solutions.
 
 </div>
